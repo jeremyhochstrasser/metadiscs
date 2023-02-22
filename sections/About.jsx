@@ -16,23 +16,23 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About Meta-Discs" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
+        <span className="font-extrabold text-white">MetaDiscs</span> are a new
+        thing in the future. The universe holds many mysteries that humanity has long been drawn to explore. 
+        Even on the advanced planet of Nexus, some secrets remain unknown. As the Shadow Raiders seek forbidden knowledge and powerful meta-energy, 
+        they risk destroying everything Nexus has built. A young hero must rise to protect his home and restore balance to the universe by uncovering 
+        the{' '}
         <span className="font-extrabold text-white">
-          madness of the metaverse
+        true nature of the cosmos
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
+        and his own{' '}
+        <span className="font-extrabold text-white">meta-abilities.</span> 
+         Let's{' '}
         <span className="font-extrabold text-white">explore</span> the madness
         of the metaverse by scrolling down
       </motion.p>

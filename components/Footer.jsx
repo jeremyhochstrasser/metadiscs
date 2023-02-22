@@ -26,7 +26,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            Enter Metaverse
+            Enter Tournement
           </span>
         </button>
       </div>
@@ -36,10 +36,10 @@ const Footer = () => (
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
-            METAVERUS
+            MediaHoch
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Metaversus. All rights reserved.
+            Copyright © 2021 - 2023 MediaHoch. All rights reserved.
           </p>
 
           <div className="flex gap-4">

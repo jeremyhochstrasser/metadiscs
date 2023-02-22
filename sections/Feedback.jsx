@@ -21,17 +21,18 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
           <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-            Samantha
+            Huntington Coats
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Metaverus
+            Founder Meta-Discs
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “With the development of today's technology, metaverse is very
-          useful for today's work, or can be called web 3.0. by using
-          metaverse you can use it as anything”
+          “Your Metadiscs NFT is your on-chain proof of tournament entry fee, 
+          it also acts as a digital membership token. Your Metadiscs NFT will also give you access to premium Caddie Daddy content, 
+          special rewards, unique giveaways and more.
+”
         </p>
       </motion.div>
 
